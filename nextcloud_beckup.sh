@@ -4,7 +4,7 @@ MONTH=`date +"%m"`
 DAY=`date +"%d"`
 # Database credentials ---------------------------
 user="root"
-password="root"
+password="password"
 host="localhost"
 db_name="nextcloud"
 #create folder and PATH ---------------------------
